@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: tejasnivatkar1/replaceImageTag
+        image: tejasnivatkar1/3
         ports:
         - containerPort: 8080
